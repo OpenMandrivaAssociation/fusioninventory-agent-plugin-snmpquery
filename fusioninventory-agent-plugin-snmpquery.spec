@@ -8,6 +8,7 @@ URL:		http://fusioninventory.org/wordpress/
 Source0:	http://search.cpan.org/CPAN/authors/id/G/GO/GONERI/FusionInventory-Agent-Task-SNMPQuery-%{version}.tar.gz
 BuildArch:  noarch
 BuildRequires:  perl(Module::Install)
+BuildRequires:  perl(Module::CoreList)
 BuildRoot:	%{_tmppath}/%{name}-%{version}
 
 %description
