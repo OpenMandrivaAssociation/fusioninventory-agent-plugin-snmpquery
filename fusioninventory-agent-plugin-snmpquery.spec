@@ -1,6 +1,6 @@
 Name:		fusioninventory-agent-plugin-snmpquery
 Version:	1.3
-Release:	2
+Release:	3
 Summary:	OCS Inventory Software deployment support for FusionInventory agent
 License:	GPL
 Group:		System/Servers
